@@ -2,7 +2,11 @@
  
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham0ahmed&layout=compact&theme=theme) 
 
+<div align="center">
+ [![Latest Project:  - 100AND.FIT](https://img.shields.io/badge/Latest_Project%3A_-100AND.FIT-2ea44f?logo=Angular)](https://100and.fit)
 
+  <img src="https://raw.githubusercontent.com/100andfit/supplement-configurator/main/assets/mx2.gif" alt="Demo GIF" />
+</div>
 
 | HTML | SCSS | JavaScript | TypeScript | Angular | PHP | Symfony |
 | :---         |     :---:      |     :---:     |     :---:    |     :---:      |     :---:     |          ---:|
