@@ -1,9 +1,9 @@
  [![Junior - Web-developer](https://img.shields.io/static/v1?label=Junior&message=Web-developer&color=yellow&style=for-the-badge&logo=javascript)](https://bit.ly/3sa3WoQ)
  
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham0ahmed&layout=compact&theme=theme) 
-
-<div align="center">
  [![Latest Project:  - 100AND.FIT](https://img.shields.io/badge/Latest_Project%3A_-100AND.FIT-2ea44f?logo=Angular)](https://100and.fit)
+<div align="center">
+
 
   <img src="https://raw.githubusercontent.com/100andfit/supplement-configurator/main/assets/mx2.gif" alt="Demo GIF" />
 </div>
